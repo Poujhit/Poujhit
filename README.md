@@ -3,7 +3,7 @@
 
 <!-- **Poujhit/Poujhit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+I'm a Software Engineer specialised in application developement (both web and mobile)
 
 - 🔭 I’m currently working on React-TypeScript, NodeJs
 - 🌱 I’m currently learning Blockchain Technology
