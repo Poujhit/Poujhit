@@ -5,7 +5,7 @@
 
 I'm a Software Engineer specialised in application developement (both web and mobile)
 
-- 🔭 I’m currently working on React-TypeScript, NodeJs
+- 🔭 I’m currently working on React-TypeScript, NodeJs, Flutter
 - 🌱 I’m currently learning Blockchain Technology
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
