@@ -13,8 +13,14 @@ I'm a Software Engineer specialised in application developement (both web and mo
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
-## Stats
+
+<details>
+  <summary>Click to see my Github stats</summary>
+  
+  ## Stats
 
 ![My Profile views](https://komarev.com/ghpvc/?username=Poujhit&color=blue) \
 ![Top Langs](https://github-language-stats.vercel.app/api/top-langs?username=Poujhit) \
 ![Poujhit Github Stats](https://github-readme-stats.vercel.app/api?username=Poujhit&count_private=true&show_icons=true&include_all_commits=true)
+
+  </details>
