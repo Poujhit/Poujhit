@@ -1,4 +1,6 @@
-<img src="/bannerimage.png"/>
+<p align="middle">
+<img src="/headerimage.png" />
+</p>
 
 <!-- **Poujhit/Poujhit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -17,9 +19,24 @@ I'm a Software Engineer specialised in application developement (both web and mo
   <summary>Click to see my Github stats</summary>
   
   ## Stats
+  
+  <p align="middle">
+  <img align="center" src="https://komarev.com/ghpvc/?username=Poujhit&color=blue" />
+</p>
+  <br/>
+    
+  
+<p align="middle">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Poujhit&theme=tokyonight" />
+</p>
+    <br/>
+    
+  <p align="middle">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Poujhit&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" />
+</p>
 
-![My Profile views](https://komarev.com/ghpvc/?username=Poujhit&color=blue) \
-![Top Langs](https://github-language-stats.vercel.app/api/top-langs?username=Poujhit) \
-![Poujhit Github Stats](https://github-readme-stats.vercel.app/api?username=Poujhit&count_private=true&show_icons=true&include_all_commits=true)
+<!-- ![My Profile views](https://komarev.com/ghpvc/?username=Poujhit&color=blue) \
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Poujhit&theme=tokyonight) \
+![Poujhit Github Stats](https://github-readme-stats.vercel.app/api?username=Poujhit&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight) -->
 
   </details>
