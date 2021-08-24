@@ -3,8 +3,7 @@
 </p>
 
 <!-- **Poujhit/Poujhit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-I'm a Software Engineer specialised in application developement (both web and mobile)
+<h3 align="left">I am a Software Engineer specialised in application developement (both web and mobile)</h3>
 
 - 🔭 I’m currently working on React-TypeScript, NodeJs, Flutter
 - 🌱 Learning about Blockchain Technology
