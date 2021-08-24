@@ -16,7 +16,7 @@ I'm a Software Engineer specialised in application developement (both web and mo
 <!-- - ⚡ Fun fact: ... -->
 
 <details>
-  <summary>Click to see my Github stats</summary>
+  <summary>Click here to see my Github stats</summary>
   
   ## Stats
   
