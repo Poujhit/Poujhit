@@ -33,6 +33,11 @@
   <p align="middle">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Poujhit&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" />
 </p>
+  
+<!--   <p align="middle">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true" />
+</p> -->
+  
 
 <!-- ![My Profile views](https://komarev.com/ghpvc/?username=Poujhit&color=blue) \
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Poujhit&theme=tokyonight) \
