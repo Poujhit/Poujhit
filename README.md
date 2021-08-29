@@ -6,7 +6,7 @@
 <h3 align="left">I am a Software Engineer specialised in application developement (both web and mobile)</h3>
 
 - 🔭 I’m currently working on React-TypeScript, NodeJs, Flutter
-- 💻 Working as Frontend Intern at <a href="https://www.intugine.com" target="_blank">Intugine</a>
+- 🏢 Frontend Intern at [Intugine](https://www.intugine.com)
 - 🌱 Learning about Blockchain Technology
 - 🖥 Reach me out on [LinkedIn](https://www.linkedin.com/in/poujhit-mu/)
 <!-- - 👯 I’m looking to collaborate on ... -->
