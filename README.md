@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on React-TypeScript, NodeJs, Flutter
 - 🏢 Frontend Intern at [Intugine](https://www.intugine.com)
-- 🌱 Exploring Blockchain Technology
+- 🌱 Exploring Blockchain Technology and Web 3.0
 - 🖥 Reach me out on [LinkedIn](https://www.linkedin.com/in/poujhit-mu/)
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
