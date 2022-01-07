@@ -6,9 +6,9 @@
 <h3 align="left">I am a Software Engineer specialised in application development (both web and mobile)</h3>
 
 - 🛠 Building apps using **React-TypeScript, NodeJs, Flutter**
-<!-- - 🏢 SDE-Frontend Intern at [Intugine](https://www.intugine.com) -->
 - 🌱 Exploring **Blockchain Technology and Web 3.0**
 - 📩 Reach me out on [LinkedIn](https://www.linkedin.com/in/poujhit-mu/)
+<!-- - 🏢 SDE-Frontend Intern at [Intugine](https://www.intugine.com) -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
