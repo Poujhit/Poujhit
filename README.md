@@ -31,6 +31,9 @@
         <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"  alt="Dart" />
     </td>
     <td align="center" width="115">
+        <img src="https://img.shields.io/badge/solidity-%230175C2.svg?style=for-the-badge&logo=solidity&logoColor=white"  alt="Solidity" />
+    </td>
+    <td align="center" width="115">
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
     </td>
     <td align="center" width="115">
@@ -76,6 +79,9 @@
     </td>
     <td align="center" width="115">
         <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"  alt="Redux" />
+    </td>
+     <td align="center" width="115">
+        <img src="https://img.shields.io/badge/hardhat-%23404d59.svg?style=for-the-badge&logo=hardhat" alt="hardhat" />
     </td>
     <td align="center" width="115">
         <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="express" />
