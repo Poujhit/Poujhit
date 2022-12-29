@@ -1,5 +1,5 @@
 <p align="middle">
-<img src="/headerimage.png" />
+<img src="/header.png" />
 </p>
 
 <!-- **Poujhit/Poujhit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
