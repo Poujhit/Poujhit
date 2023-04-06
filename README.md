@@ -111,7 +111,7 @@
     
   
 <p align="middle">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Poujhit&theme=tokyonight&hide=css&hide=html&exclude_repo=Neumorphic-Clock-App" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Poujhit&theme=tokyonight&hide=css,html&exclude_repo=Neumorphic-Clock-App&langs_count=7" />
 </p>
    <br/>
     
