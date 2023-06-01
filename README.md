@@ -111,12 +111,12 @@
     
   
 <p align="middle">
-  <img align="center" src="https://my-own-github-readme-stats.vercel.app/api/top-langs?username=Poujhit&theme=tokyonight&hide=css,html&exclude_repo=Neumorphic-Clock-App&langs_count=6" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Poujhit&theme=tokyonight&hide=css,html&exclude_repo=Neumorphic-Clock-App&langs_count=6" />
 </p>
    <br/>
     
   <p align="middle">
-  <img align="center" src="https://my-own-github-readme-stats.vercel.app/api?username=Poujhit&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Poujhit&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" />
 </p>
   
 <!--   <p align="middle">
