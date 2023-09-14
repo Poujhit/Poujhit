@@ -1,5 +1,5 @@
 <p align="middle">
-<img src="https://www.linkpicture.com/q/header_13.png" />
+<img src="/bannerimage.png" />
 </p>
 
 <!-- **Poujhit/Poujhit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
