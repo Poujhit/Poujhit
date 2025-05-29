@@ -5,8 +5,8 @@
 <!-- **Poujhit/Poujhit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <h3 align="left">I am a Software Engineer specialised in application development (both web and mobile)</h3>
 
-- 🛠 Building apps using **React-TypeScript, NodeJs, Flutter**
-- 🌱 Exploring **Blockchain Technology and Go Lang**
+- 🛠 Building apps using **various tech stacks as per the requirements**
+- 🌱 Exploring **Blockchain Technology and Go Lang, AI TECH, LLMs**
 - 📩 Reach me out on [LinkedIn](https://www.linkedin.com/in/poujhit-mu/)
 <!-- - 🏢 SDE-Frontend Intern at [Intugine](https://www.intugine.com) -->
 <!-- - 👯 I’m looking to collaborate on ... -->
